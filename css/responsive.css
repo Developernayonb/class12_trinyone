@@ -1,0 +1,176 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+ /*Footer*/
+.footer_area {
+    padding-top: 0px;
+}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+/*Feture*/
+ .feature {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+ .single_item {
+    margin-top: 30px;
+}
+ /*Contact*/
+.contact {
+   padding-top: 70px;
+    padding-bottom: 80px;
+}
+ /*Footer*/
+.footer_area {
+    padding-top: 0px;
+}
+
+ 
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+ /*E.S.D*/
+  .slider_contnet h2 {
+    text-align: center;
+}
+ .slider_contnet h4 {
+    text-align: center;
+}
+ .slider_contnet p {
+    text-align: center;
+}
+ .slider_contnet i {
+    margin-right: -80px;
+    margin-left: 100px;
+}
+ .slider_contnet h2 {
+    font-size: 28px;
+}
+ .section_title h2 {
+    font-size: 28px;
+}
+ .section2_title h2 {
+    font-size: 28px;
+}
+ .owl-dot {
+    height: 15px;
+    width: 15px;
+}
+ /*Feture*/
+ .title h1 {
+    font-size: 26px;
+}
+ .title p {
+    font-size: 18px;
+}
+ .feature {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+ .fiture_content h2 {
+    font-size: 20px;
+}
+ .single_item {
+    margin-top: 20px;
+    text-align: center;
+}
+ .feture_icon i {
+    font-size: 40px;
+  margin-bottom: 10px;
+}
+ .p_l_0 {
+ padding-left: 15px;
+}
+ /*Contact*/
+ .t-center{
+  text-align: center;
+  margin-top: 20px;
+ }
+.contact {
+   padding-top: 50px;
+    padding-bottom: 60px;
+}
+ .contact_form input {
+    padding: 10px 15px;
+}
+ .btn {
+    padding: 15px 32px;
+ } 
+  .contact_form {
+    margin-bottom: 40px;
+}
+ /*Footer*/
+ .a-center{
+  text-align: center;
+ }
+ .footer_area {
+    padding-top: 0px;
+    padding-bottom: 70px;
+}
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ /*Feture*/
+ .title h1 {
+    font-size: 28px;
+}
+ .title p {
+    font-size: 18px;
+}
+.feature {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+  .fiture_content h2 {
+    font-size: 17px;
+}
+ .single_item {
+    margin-top: 25px;
+}
+ .feture_icon i {
+    font-size: 45px;
+}
+ /*Contact*/
+ .t-center{
+  text-align: center;
+  margin-top: 20px;
+ }
+ .contact_form input {
+    padding: 10px 15px;
+}
+ .btn {
+    padding: 15px 32px;
+ }
+.contact {
+   padding-top: 60px;
+    padding-bottom: 70px;
+}
+ .contact_form {
+    margin-bottom: 40px;
+}
+ /*Footer*/
+ .a-center{
+  text-align: center;
+ }
+ .footer_area {
+    padding-top: 0px;
+}
+ 
+}
